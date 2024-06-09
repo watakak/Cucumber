@@ -14,4 +14,6 @@ function(var=a)
 ```
 
 Cucumber (46 bytes)
-```Å funcΒonÂvarÃ:ΆøāÂf'You said: {a}ëΆΆa = āäInput Αxt: ëΆΆfuncΒonÂvar=aÃ```
+```
+Å funcΒonÂvarÃ:ΆøāÂf'You said: {a}ëΆΆa = āäInput Αxt: ëΆΆfuncΒonÂvar=aÃ
+```
