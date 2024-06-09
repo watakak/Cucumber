@@ -13,7 +13,12 @@ a = input('Input text: ')
 function(var=a)
 ```
 
-Cucumber (46 bytes)
+Cucumber Old version (1.0.1, 56 bytes)
 ```
 Å funcΒonÂvarÃ:ΆøāÂf'You said: {a}ëΆΆa = āäInput Αxt: ëΆΆfuncΒonÂvar=aÃ
+```
+
+Cucumber New version (1.0.2, 24 bytes)
+```
+ÅÁᎩÇÂÈÉΆԲᎭᎬÙaÍΆΆaĪāäᎡᎠ ᎪxtÆëΆΆÁᎩÇÂÈ=aÃ
 ```
